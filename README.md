@@ -41,6 +41,6 @@ Hit Run Button !
 ------------
 
 Full Project demonstration Youtube :<br>
-Link - https://youtu.be/NkE4sxeAfFE
+Link -Complete demonstration: Coming soon on my GitHub or YouTube.
 
 **Free Software, Hell Yeah!**
